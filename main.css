@@ -1,0 +1,98 @@
+
+.page-title {
+    text-align: center;
+    height: 100%;
+    font-family: 'Alegreya Sans SC',serif;font-size: 40px;
+    color: antiquewhite;
+}
+
+.page-description {
+    text-align: center;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 30px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC',serif;font-size: 25px;
+}
+
+.picture-description {
+    text-align: left;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC', serif;font-size: 20px;
+}
+
+.group-description {
+    text-align: left;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC',serif;font-size: 30px;
+}
+
+.group-introNames {
+    text-align: left;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC',serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.group-introductions {
+    text-align: left;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC',serif;font-size: 20px;
+}
+
+.bookIntro {
+    text-align: left;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC',serif;
+}
+.bookAbout {
+    text-align: left;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC',serif;font-size: 20px;
+}
+.buttons {
+
+}
+.pictures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+
+}
+
+.picture-item .thumbnail {
+    border: 5px solid antiquewhite;
+}
+
+body {
+    background-color: grey;
+}
+
+
+
+
