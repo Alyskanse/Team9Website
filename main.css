@@ -75,6 +75,26 @@
     background-size: cover;
     font-family: 'Alegreya Sans SC',serif;font-size: 20px;
 }
+
+.prototypeIntro {
+    text-align: left;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC',serif;
+}
+
+.prototypeAbout {
+    text-align: left;
+    color: black;
+    border: 3px;
+    margin: 2px;
+    padding: 10px;
+    background-size: cover;
+    font-family: 'Alegreya Sans SC',serif;font-size: 20px;
+}
 .buttons {
 
 }
