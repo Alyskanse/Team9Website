@@ -2,62 +2,68 @@
 .page-title {
     text-align: center;
     height: 100%;
-    font-family: 'Alegreya Sans SC',serif;font-size: 40px;
-    color: gray;
+    font-family: 'Titillium Web',serif;font-size: 40px;
+    color: #204E5F;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .page-description {
     text-align: center;
-    color: black;
+    color: #007369;
     border: 3px;
-    margin: 2px;
+    margin-left: 200px;
+    margin-right: 200px;
     padding: 30px;
     background-size: cover;
-    font-family: 'Alegreya Sans SC',serif;font-size: 25px;
+    font-family: 'Titillium Web',serif;font-size: 25px;
 }
 
 .mainStyle {
     text-align: left;
-    color: black;
+    color: #007369;
     background-size: cover;
-    font-family: 'Alegreya Sans SC',serif;font-size: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Titillium Web',serif;font-size: 20px;
 }
 
 .intros {
     text-align: left;
-    color: gray;
+    color: #204E5F;
     border: 3px;
-    margin: 2px;
-    padding: 10px;
+    padding: 5px;
     background-size: cover;
-    font-family: 'Alegreya Sans SC',serif;
+    font-family: 'Titillium Web',serif;
     font-size: 20px;
     font-weight: bold;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .picture-description {
-    text-align: left;
-    color: black;
+    text-align: center;
+    color: #007369;
     border: 3px;
-    margin: 2px;
+    margin-left: 200px;
+    margin-right: 200px;
     padding: 10px;
     background-size: cover;
-    font-family: 'Alegreya Sans SC', serif;font-size: 20px;
+    font-family: 'Titillium Web', serif;font-size: 20px;
 }
 
 .pictures {
     display: flex;
     flex-wrap: wrap;
-    justify-content: right;
-
+    justify-content: center;
 }
 
 .picture-item .thumbnail {
-    border: 5px solid gray;
+    border: 5px solid #568EA6;
 }
 
 body {
-    background-color: lavender;
+    background-color: #B7D7D8;
 }
 
 
